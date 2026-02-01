@@ -1,5 +1,5 @@
 # XSSplore
-Supplementary materials for ICASSP 26 submitted paper "XSSplore: A Tree-Structured Prompting and Actor-critic Framework for Autonomous Red Teaming XSS Payload Generation".
+Supplementary materials for IJCNN 26 submitted paper "XSSplore: A Tree-Structured Prompting and Actor-critic Framework for Autonomous Red Teaming XSS Payload Generation".
 
 The code and experimental data related to this paper will be made publicly available upon the publication of the paper. 
 
